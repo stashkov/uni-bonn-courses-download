@@ -7,8 +7,7 @@ output: TimeTable.ics file
 What does this programme do?
  Given link to courses in BASIS such as this one:
 
- https://basis.uni-bonn.de/qisserver/
- rds?state=wtree&search=1&trex=step&root120151=108340|123654|123689|123672&P.vx=lang
+ https://basis.uni-bonn.de/qisserver/rds?state=wtree&search=1&trex=step&root120151=108340|123654|123689|123672&P.vx=lang
 
  the programme will create single ICS file with all the appointments,
  which you can later import to Google Calendar, MS Outlook, Thunderbird,
