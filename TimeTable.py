@@ -69,6 +69,10 @@ def get_id(url):
         print publish_ids[i], description[i]
     print '----END LIST OF COURSE FOUND----\n'
 
+    if len(publish_ids) == 0:  # found no courses
+        print 'Incorrect URL. Exiting...'
+        exit()
+
     return publish_ids, description
 
 
