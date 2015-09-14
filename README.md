@@ -13,7 +13,7 @@ Given link to courses in BASIS such as this one:
 
 the programme will create single ICS file with all the appointments,
 which you can later import to Google Calendar, MS Outlook, Thunderbird,
-or your favourite Calendar, assuming it accepts ICS file
+or your favourite Calendar, assuming it accepts .ics file
 
 
 
