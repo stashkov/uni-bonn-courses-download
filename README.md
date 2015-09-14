@@ -17,7 +17,7 @@ or your favourite Calendar, assuming it accepts .ics file
 
 
 
-### USAGE EXAMPLE
+### START OF USAGE EXAMPLE
 vladimir@Yoga-2 ~/PycharmProjects/basis_timetable $ python TimeTable.py 
 
 
@@ -60,3 +60,5 @@ Closing the file: /home/vladimir/Downloads/TimeTable/TimeTable.ics
 
 
 File was saved to: /home/vladimir/Downloads/TimeTable/
+
+### END OF USAGE EXAMPLE
