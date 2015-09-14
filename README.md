@@ -1,10 +1,10 @@
 # uni-bonn-courses-download
 download info from BASIS about date	ime of the courses and create single .ics Calendar file
 
-input: url link
+#input: url link
 
 
-output: TimeTable.ics file
+#output: TimeTable.ics file
 
 What does this programme do?
 Given link to courses in BASIS such as this one:
