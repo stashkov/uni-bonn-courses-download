@@ -2,7 +2,7 @@
 download info from BASIS about date	ime of the courses and create single .ics Calendar file
 
 input: url link
-output: TimeTable.ics file \n
+output: TimeTable.ics file
 
 What does this programme do?
 Given link to courses in BASIS such as this one:
