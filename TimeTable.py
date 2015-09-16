@@ -146,7 +146,7 @@ def main():
     # for each of the id of a course get all of the appointments
     appointment_ids = get_subj_id(courses_ids)
     # download all of the appointments and merge them in 1 file
-    save_to_path = os.path.expanduser('~') + '/Downloads/TimeTable/'
+    save_to_path = os.path.expanduser('~') + '/Downloads/'
     saved_file = download_and_merge_ics(appointment_ids, save_to_path)
 
     print '\nFile was saved to: ' + str(saved_file)
